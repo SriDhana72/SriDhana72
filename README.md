@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SriDhana
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web designing courses
-- 💞️ I’m looking to collaborate on Product based companies
+- 💞️ I’m looking to collaborate with Product based companies
 - 📫 How to reach me ... gunseen349@gmail.com
 
 <!---
